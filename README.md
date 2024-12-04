@@ -4,15 +4,15 @@ Este é meu código em C, o **Jogo de Adivinhação**! Ele é um jogo criado par
 
 # Compilação(melhor em **Linux e MacOS**)
 
-Para jogar, disponibilizei o arquivo **projetofinal** que está compilado de **projetofinal.c**, Nele ao executar o comando: <br><br> **gcc projetofinal.c -o projetofinal.out** <br><br> Você poderá compilar(inclusive mudar o nome "projetofinal" para outro de preferência).
+Para jogar, disponibilizei o arquivo **projetofinal** que está compilado de **projetofinal.c**, nele ao executar o comando: <br><br> **gcc projetofinal.c -o projetofinal.out** <br><br> Você poderá compilar(inclusive mudar o nome "projetofinal" para outro de preferência).
 
 # Dificuldade
 
-Escolha a dificuldade do jogo, se escolher 1, 2 ou 3 você terá 20, 15 e 10 tentativas respectivamente.
+Escolha a dificuldade do jogo, se escolher 1, 2 ou 3 você terá 20, 15 ou 10 tentativas respectivamente.
 
 # Sistema de Pontos
 
-O jogador começa com 1000 pontos e toda vez que errar é subtraído os pontos, o método que usei foi pegar o **número chutado e dividir por 2** a cada iteração-> (abs(chute) / 2)
+O jogador começa com 1000 pontos e toda vez que errar é subtraído os pontos, o método que usei foi pegar o **número chutado e dividir por 2** a cada iteração: <br><br> (abs(chute) / 2)
 
 # Dica do jogo
 
