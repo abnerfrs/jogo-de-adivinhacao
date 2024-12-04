@@ -4,7 +4,7 @@ Este é meu código em C, o **Jogo de Adivinhação**! Ele é um jogo criado par
 
 # Compilação(melhor em **Linux e MacOS**)
 
-Para jogar, disponibilizei o arquivo **projetofinal** que está compilado de **projetofinal.c**, Nele ao executar o comando **gcc projetofinal.c -o projetofinal.out** você poderá compilar(inclusive mudar o nome "projetofinal" para outro de preferência).
+Para jogar, disponibilizei o arquivo **projetofinal** que está compilado de **projetofinal.c**, Nele ao executar o comando: <br> **gcc projetofinal.c -o projetofinal.out** você poderá compilar(inclusive mudar o nome "projetofinal" para outro de preferência).
 
 # Dificuldade
 
