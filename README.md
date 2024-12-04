@@ -1,4 +1,4 @@
-# Sejam Bem Vindos || Welcome to the Guessing game
+# Welcome to the Guessing game
 
 Este é meu código em C, o **Jogo de Adivinhação**! Ele é um jogo criado para explorar os conceitos da linguagem C, laços de repetições, variáveis, funções, escopos globais e etc. Aqui irei detalhar como você pode executar o código e jogar!
 
